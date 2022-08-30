@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadenrosoff
 - 👀 I’m interested in computer science, environmentalism, and climbing!
-- 🌱 I’m currently learning Java and data structures and algorithms!
+- 🌱 I’m currently learning C# and Visual Studio!
 - 💞️ I’m looking to collaborate on ?????
 - 📫 How to reach me @jadenrosoff on Instagram!
 
