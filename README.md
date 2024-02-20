@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadenrosoff
 - 👀 I’m interested in computer science, environmentalism, and climbing!
-- 🌱 I’m currently learning C++ and Visual Studio Code!
+- 🌱 I’m currently learning MySQL and database systems as well as assembly and computer architecture!
 - 📫 How to reach me @jadenrosoff on Instagram!
 
 <!---
