@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadenrosoff
 - 👀 I’m interested in computer science, environmentalism, and climbing!
-- 🌱 I’m currently learning MySQL and database systems as well as assembly and computer architecture!
+- 🌱 I’m currently learning Python, OpenGL, WebDev (HTML/CSS), and working on my capstone!
 - 📫 How to reach me @jadenrosoff on Instagram!
 
 <!---
